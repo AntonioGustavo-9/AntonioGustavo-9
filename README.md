@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação e estou direcionando minha carreira para a área de **Infraestrutura de TI e Cloud Computing**.
+Sou estudante de Sistemas de Informação e estou direcionando minha carreira para a área de **Suporte de TI, Infraestrutura e Cloud Computing**.
 
 Atualmente busco minha primeira oportunidade profissional em **Suporte de TI, Help Desk ou Service Desk**, com o objetivo de construir experiência prática e, posteriormente, evoluir para **Infraestrutura e Cloud**.
 
