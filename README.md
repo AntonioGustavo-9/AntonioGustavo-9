@@ -44,8 +44,8 @@ Os projetos são desenvolvidos durante minha formação e estudos, com documenta
 
 ## 📚 Atualmente estudando
 
-- Microsoft Azure
-- AZ-900
+- Suporte de TI da GOOGLE
+- Google IT Support Fundamental
 - TCP/IP e redes
 - Windows
 - Linux
